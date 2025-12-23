@@ -1,0 +1,34 @@
+{
+  "node": "n8n-nodes-clarity-ppm.clarityPpm",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Data & Storage", "Productivity"],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://techdocs.broadcom.com/us/en/ca-enterprise-software/business-management/clarity-project-and-portfolio-management-ppm-on-premise/16-4-0/reference/Clarity-REST-APIs.html"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/Velocity-BPA/n8n-nodes-clarity-ppm"
+      }
+    ]
+  },
+  "alias": [
+    "clarity",
+    "ppm",
+    "broadcom",
+    "project",
+    "portfolio",
+    "management",
+    "timesheet",
+    "resource",
+    "roadmap",
+    "enterprise"
+  ],
+  "subcategories": {
+    "Data & Storage": ["Project Management"],
+    "Productivity": ["Project Management"]
+  }
+}
